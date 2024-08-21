@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##✨怎么获取acg免费资源✨
+## ✨怎么获取acg免费资源✨
 
 我们独立的网站(上面搜索游戏更方便)：[https://qfafa.com](https://qfafa.com)
 
 github pages链接：[https://acgfree.github.io](https://acgfree.github.io)
 
-##🌱其他声明🌱
+## 🌱其他声明🌱
 
 所有游戏资源收集于互联网，大家有能力请支持正版
